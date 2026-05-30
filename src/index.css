@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Inter', 'Space Grotesk', ui-sans-serif, system-ui, sans-serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, SFMono-Regular, monospace;
+}
+
+/* Custom CSS Styling for Telegram notifications HTML elements */
+.html-message-render b {
+  font-weight: 700;
+  color: #fff;
+}
+.html-message-render code {
+  background-color: #24313f;
+  color: #ff9f1c;
+  padding: 1px 4px;
+  border-radius: 3px;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px;
+}
+.html-message-render i {
+  font-style: italic;
+  color: #708499;
+}

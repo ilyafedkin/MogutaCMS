@@ -1,0 +1,6 @@
+{
+  "name": "Moguta CMS AI & Telegram Hub",
+  "description": "Premium full-stack hub for Moguta.CMS integrated with Telegram Bot notifications, real-time webhook simulators, and a Gemini-powered Kids AI Stylist.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
